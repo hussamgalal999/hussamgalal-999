@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](++++++++++++++++++++++++++++++++++++++++++++++++ "Header")](https://martinheinz.dev/)
-https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -132,6 +131,8 @@ A sample of my recent articles:
 [2]: https://github.com/hussamgalal-999
 [3]: https://www.linkedin.com/in/hossam-galal-2b65ba170/
 
+
+https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
