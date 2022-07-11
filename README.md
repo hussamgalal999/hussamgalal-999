@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Hossam Galal and I'm a software developer/DevOps engineer. I'm from Egypt, living in Minya and currently worked  at Cisco I trainer at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hossam Galal and I'm a Software Engineer / Web Developer. I'm from Egypt, living in Minya and currently worked  at Cisco I trainer at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
