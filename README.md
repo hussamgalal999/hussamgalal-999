@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hossam Galal and I'm a software developer/DevOps engineer. I'm from Egypt, living in Minya and currently worked  at Cisco I trainer at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+🌞 Morning    145 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
+🌆 Daytime    412 commits    █████████████░░░░░░░░░░░░   51.95% 
+🌃 Evening    172 commits    █████░░░░░░░░░░░░░░░░░░░░   21.69% 
+🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -39,7 +43,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/hussamgalal999).
 
 A sample of my recent articles:
 
@@ -84,9 +88,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/Hhuhu0
+[2]: https://github.com/hussamgalal-999
+[3]: https://www.linkedin.com/in/hossam-galal-2b65ba170/
 
 
 <!-- Resources -->
